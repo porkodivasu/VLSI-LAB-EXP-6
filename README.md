@@ -114,8 +114,8 @@ Press esc with the cursor after selecting.
 Running the simulation:
 1.Execute the simulation Netlist and run in the simulation window to start the simulation
 on the icon. This will create the netlist as well as run the simulation.
-2.When the simulation finishes the transient and DC plots automatically will be popped up
-along with netlist.
+2.When the simulation finishes the transient and DC plots automatically will be popped up along with netlist.
+
 ![Screenshot (94)](https://github.com/porkodivasu/VLSI-LAB-EXP-6/assets/160757120/f6973872-fe11-476d-be53-9ece0c3d5981)
 
 ![Screenshot (95)](https://github.com/porkodivasu/VLSI-LAB-EXP-6/assets/160757120/dc815d29-fcbf-4a5f-8fc7-c4ddc79c9758)
